@@ -1,0 +1,49 @@
+.image-banner{
+    width: 100%; 
+    height: 90vh; 
+  
+}
+
+.main-text-h3{
+
+    color: rgba(202, 22, 22, 0.548);
+    text-align: center;
+    
+
+}
+
+.main-text-h2{
+
+    text-align: center;
+    
+}
+
+
+.product-cart {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+/* Individual cart styling */
+.cart {
+    border: 1px solid #f30a0a;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    height: 330px;
+    
+}
+
+
+
+/* Image styling */
+.cart-img {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
